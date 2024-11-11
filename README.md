@@ -4,11 +4,6 @@
 ini adalah aplikasi rak buku yang dibuat untuk bahan pembelajaran di ukm programming teknokrat divisi web.
 
 
-## Tech Stack
-
-**Client:** HTML, CSS, Javascript
-
-
 ## UI Bookshelf Apps
 
 ![Bookshelf Apps](https://imgur.com/kxw3TBF.png)
@@ -17,3 +12,9 @@ ini adalah aplikasi rak buku yang dibuat untuk bahan pembelajaran di ukm program
 ## Demo
 
 https://bookshelf-apps.codemaju.com/
+
+
+## Tech Stack
+
+**Client:** HTML, CSS, Javascript
+
